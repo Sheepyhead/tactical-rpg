@@ -1,0 +1,15 @@
+[package]
+name = "lib"
+version = "0.1.0"
+authors = ["Troels \"Sheepyhead\" Jessen"]
+license = "MIT OR Apache 2.0"
+edition = "2021"
+
+[dependencies]
+bevy = "0.11"
+# bevy_kira_audio ={ git = "https://github.com/NiklasEi/bevy_kira_audio?branch=bevy_main", features = ["mp3"]}
+rand = "0.8"
+# macros = {version = "0.1", path = "../macros"}
+petitset = "0.2"
+serde = "1.0.152"
+derive_more = "0.99.17"

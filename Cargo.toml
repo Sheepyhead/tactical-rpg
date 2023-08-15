@@ -2,13 +2,13 @@
 resolver = "2"
 
 members = [
-    "template_game", 
-    "template_lib", 
-    "template_macros", 
+    "game", 
+    "lib", 
+    "macros", 
     "tools/ci"
 ]
 
-default-members = ["template_game","template_lib"]
+default-members = ["game","lib"]
 
 # Enable max dependenacy optimizations without impacting release compiles
 [profile.dev.package."*"]

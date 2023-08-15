@@ -1,4 +1,4 @@
-//! Connects all of the TEMPLATE game logic.
+//! Connects all of the game logic.
 #![deny(missing_docs)]
 #![deny(clippy::missing_docs_in_private_items)]
 #![forbid(unsafe_code)]

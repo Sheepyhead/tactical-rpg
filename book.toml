@@ -1,6 +1,6 @@
 [book]
-authors = ["Alice Cecile"]
+authors = ["Troels \"Sheepyhead\" Jessen"]
 language = "en"
 multilingual = false
 src = "design/src"
-title = "TEMPLATE"
+title = "Tactical RPG"
